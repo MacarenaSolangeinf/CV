@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://macarenasolangeinf.github.io/CV/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://macarenasolangeinf.github.io/CV/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://macarenasolangeinf.github.io/CV/presentacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://macarenasolangeinf.github.io/CV/presentacion/</guid>
+      <description>Mi nombre es Macarena Quiroga, soy Analista Programadora Universitaria egresada en la Universidad Nacional de la Patagonia San Juan Bosco, me encanta desarrollar, me considero muy entusiasta, me motiva mucho aprender y trabajar en equipo.Me apasionan los proyectos relacionados a la salud, al área profesional y educación. Me gusta aplicar ingeniería de Software a mis proyectos. Mis principales metas a cumplir en un área de trabajo y/o proyecto son: Responsabilidad, muy buen trabajo en equipo, cumplir con los tiempos deseados, y contar un plan de contingencia de riesgos.</description>
+    </item>
+    
+  </channel>
+</rss>
